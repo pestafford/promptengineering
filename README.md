@@ -2,7 +2,8 @@
 Prompt Engineering Repository
 
 Welcome to the Prompt Engineering Repository! This collection is designed to showcase, share, and explain prompts I've developed for various Large Language Models (LLMs). Each prompt is crafted with precision, accompanied by detailed explanations of its mechanics, intended use cases, and potential modifications.
-🔍 About This Repository
+
+## 🔍 About This Repository
 
 The field of prompt engineering is crucial to unlocking the full potential of LLMs. This repository is intended to serve as a practical resource for:
 
@@ -11,7 +12,8 @@ The field of prompt engineering is crucial to unlocking the full potential of LL
  - Educators and learners wanting to better understand how to interact effectively with LLMs.
 
 Whether you're a seasoned pro or just starting with LLMs, this repository has something for you!
-📁 Repository Structure
+
+## 📁 Repository Structure
 
 The repository is organized into categories based on the type of task or domain the prompt addresses. Each category contains:
 
