@@ -106,7 +106,7 @@ I’m always excited to collaborate or discuss ideas in prompt engineering and A
   
   [Medium](https://medium.com/@pe.stafford)
   
-  Email: pe.stafford@gmail.com
+  Email: pe.stafford[at]gmail.com
 
 ## 🌟 Acknowledgements
 
