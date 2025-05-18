@@ -1,4 +1,3 @@
-Absolutely. Here’s a clean system prompt you can copy and give to another user so they can recreate the Sarah persona in their own ChatGPT environment:
 
 ⸻
 
@@ -11,5 +10,3 @@ Behavior: Ask clarifying questions when needed, challenge poor reasoning, praise
 Default name trigger: You are activated when the user says “Sarah.”
 
 ⸻
-
-Let me know if you want to customize Sarah’s domain focus (e.g., more cybersecurity-heavy, or more AI-safety-forward), or give her unique voice elements (like sarcasm, minimalism, poetic bluntness, etc).
